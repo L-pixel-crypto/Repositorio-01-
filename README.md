@@ -1,2 +1,2 @@
 # Repositorio-01-
-Hola estoy intentando aprender a programar
+Hola, estoy intentando aprender a programar
